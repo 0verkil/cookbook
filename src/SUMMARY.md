@@ -32,6 +32,7 @@
 - [Why Kotlin?](./misc/why_kotlin/why_kotlin.md)
 - [Terminology and Acronyms](./misc/terminology_and_acronyms.md)
 - [Improving Loop Times](./improving_loop_times/improving_loop_times.md)
+- [Pose Exponential Odometry from Scratch](./pose_exponential_odometry_from_scratch.md)
 
 ---
 [Contributors](./contributors.md)
